@@ -9,7 +9,7 @@ def initialize(wheel_size,wheel_number)
 end
 
 def go
-  return "vrrrrrrrooom!"
+  return "VRRROOOOOOOOOOOOOOOOOOOOOOOM!"
 end
 
 
