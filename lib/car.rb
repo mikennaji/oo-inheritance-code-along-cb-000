@@ -8,6 +8,11 @@ def initialize(wheel_size,wheel_number)
   @wheel_number = wheel_number
 end
 
+def go
+  return "vrrrrrrrooom!"
+end
 
+
+ 
 
 end
